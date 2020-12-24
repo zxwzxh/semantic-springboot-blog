@@ -1,0 +1,7 @@
+spring:
+  #thymeleaf配置
+  thymeleaf:
+    mode: HTML
+    cache: false
+  profiles:
+    active: dev
